@@ -1,0 +1,10 @@
+{
+  "name": "com.combatgametrial.assetquickaccess",
+  "version": "0.0.1",
+  "displayName": "Asset Quick Access",
+  "description": "A fast, lightweight, and robust editor utility for Unity to bookmark, organize, and manage your most frequently used assets, prefabs, materials, and configurations.",
+  "unity": "6000.0",
+  "author": {
+    "name": "SJB-12"
+  }
+}
