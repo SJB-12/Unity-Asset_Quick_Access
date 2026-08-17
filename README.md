@@ -15,7 +15,7 @@ A fast, lightweight, and robust editor utility for Unity to bookmark, organize, 
 1. Open the Package Manager in Unity (`Window > Package Manager`).
 2. Click the `+` button in the top-left corner and select **Add package from git URL...**
 3. Paste the following URL (replace with your repository link):
-   `https://github.com/YOUR_USERNAME/Unity-Asset-Quick-Access.git?path=/Assets/AssetQuickAccess`
+   `https://github.com/SJB-12/Unity-Asset_Quick_Access.git`
 4. Click **Add**.
 
 ---
